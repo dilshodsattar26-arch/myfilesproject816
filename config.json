@@ -1,0 +1,8 @@
+{
+    "name": "cloudmanager-service",
+    "version": "1.0.816",
+    "private": false,
+    "environment": "production",
+    "build_id": 424,
+    "allow_public_access": true
+}
